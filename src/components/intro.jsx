@@ -29,7 +29,7 @@ class Intro extends Component {
                 >
                   <i class="fa fa-linkedin" aria-hidden="true"></i>
                 </a>
-                <a href="https://humanpranav.github.io." target="_blank">
+                <a href="https://github.com/humanpranav" target="_blank">
                   <i class="fa fa-github" aria-hidden="true"></i>
                 </a>
               </div>
