@@ -8,16 +8,6 @@ import "bootstrap/dist/css/bootstrap.css";
 import { BrowserRouter } from "react-router-dom";
 import * as Sentry from "@sentry/react";
 
-Sentry.init({
-  dsn:
-    "https://d0e6cfbabafe4d5a94ee59277482a690@o511503.ingest.sentry.io/5628654",
-  //integrations: [new Integrations.BrowserTracing()],
-
-  // We recommend adjusting this value in production, or using tracesSampler
-  // for finer control
-  tracesSampleRate: 1.0,
-});
-
 ReactDOM.render(
   <BrowserRouter>
     <App />

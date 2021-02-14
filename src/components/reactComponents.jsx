@@ -13,11 +13,6 @@ const ReactComponents = () => {
         candidate!
       </p>
       <Candidates></Candidates>
-      <p className="comp-intro">
-        Communicating with the back-end is important! Feel free to add something
-        to the server!
-      </p>
-      <HttpComponent></HttpComponent>
     </div>
   );
 };
