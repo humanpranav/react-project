@@ -6,7 +6,6 @@ import reportWebVitals from "./reportWebVitals";
 import "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.css";
 import { BrowserRouter } from "react-router-dom";
-import * as Sentry from "@sentry/react";
 
 ReactDOM.render(
   <BrowserRouter>

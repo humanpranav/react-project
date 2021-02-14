@@ -1,7 +1,6 @@
 import React from "react";
 import "../reactComponents.css";
 import Candidates from "./candidates";
-import HttpComponent from "./httpComponent";
 
 const ReactComponents = () => {
   return (
