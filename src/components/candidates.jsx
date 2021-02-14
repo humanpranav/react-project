@@ -1,3 +1,4 @@
+//this is the implementation of the candidates table
 import React, { Component } from "react";
 import CandidatesTable from "./candidatesTable";
 import Pagination from "../common/pagination";
